@@ -1,0 +1,848 @@
+[
+    {
+        "outputFile": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 34,
+                    "endOffset": 85
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 106,
+                        "endColumn": 32,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 90,
+                    "endColumn": 36,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 70,
+                        "endColumn": 34,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 127,
+                    "endColumn": 38,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 36,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 38,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1152,
+                        "endColumn": 36,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 36,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 174,
+                        "endColumn": 34,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 36,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 210,
+                        "endColumn": 34,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 36,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 496,
+                        "endColumn": 34,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 38,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 818,
+                        "endColumn": 36,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 34,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 140,
+                        "endColumn": 32,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 36,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 424,
+                        "endColumn": 34,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 38,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 856,
+                        "endColumn": 36,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 36,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 460,
+                        "endColumn": 34,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 38,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 894,
+                        "endColumn": 36,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 36,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 600,
+                        "endColumn": 34,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 38,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 932,
+                        "endColumn": 36,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 36,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 710,
+                        "endColumn": 34,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 36,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 746,
+                        "endColumn": 34,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 36,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1116,
+                        "endColumn": 34,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 34,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 566,
+                        "endColumn": 32,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 38,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 970,
+                        "endColumn": 36,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 36,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1080,
+                        "endColumn": 34,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 36,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1044,
+                        "endColumn": 34,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 36,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1008,
+                        "endColumn": 34,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 36,
+                    "endOffset": 946
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 352,
+                        "endColumn": 34,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 951,
+                    "endColumn": 36,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 782,
+                        "endColumn": 34,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 34,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 246,
+                        "endColumn": 32,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 36,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 280,
+                        "endColumn": 34,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 36,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 316,
+                        "endColumn": 34,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 36,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 388,
+                        "endColumn": 34,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 34,
+                    "endOffset": 1164
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 532,
+                        "endColumn": 32,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1169,
+                    "endColumn": 36,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 636,
+                        "endColumn": 34,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 36,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1309,
+                        "endColumn": 34,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 36,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 1381,
+                        "endColumn": 34,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 36,
+                    "endOffset": 1312
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1417,
+                        "endColumn": 34,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1317,
+                    "endColumn": 36,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1345,
+                        "endColumn": 34,
+                        "endOffset": 1377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 36,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1205,
+                        "endColumn": 34,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 36,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 1453,
+                        "endColumn": 34,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 36,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 1489,
+                        "endColumn": 34,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 36,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 1525,
+                        "endColumn": 34,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 34,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1241,
+                        "endColumn": 32,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 34,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1275,
+                        "endColumn": 32,
+                        "endOffset": 1305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 47,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 63,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 58,
+                    "endOffset": 1738
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1743,
+                    "endLine": 49,
+                    "endColumn": 10,
+                    "endOffset": 1924
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1929,
+                    "endLine": 58,
+                    "endColumn": 10,
+                    "endOffset": 2428
+                },
+                "from": {
+                    "file": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

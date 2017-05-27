@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_menu_screen.jpg",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\main_menu_screen.jpg"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t11.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\t11.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coffin.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\coffin.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_2.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\sample_2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coffin_open.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\coffin_open.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\moon2.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\moon2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_2_star.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\level_2_star.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voot3.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\voot3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_tapped.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\button_tapped.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubble.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\bubble.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_0.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\sample_0.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud1.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\cloud1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_game.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\pause_game.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t1.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\t1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_locked.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\level_locked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_unlocked.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\level_unlocked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_game.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\play_game.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bubblewithchar.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\bubblewithchar.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_3_star.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\level_3_star.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_1_star.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\level_1_star.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restart.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\restart.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voote3.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\voote3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_1.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\sample_1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\untitled3.png",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\drawable\\untitled3.png"
+    }
+]

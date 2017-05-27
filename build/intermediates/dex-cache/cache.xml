@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\WorkSpace\android_studio\cut_the_rope\app\libs\jbox2d-2.0.1-full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae095d2c1a6102ca33426cfe19adec94d325bce0">
+        <dex dex="D:\WorkSpace\android_studio\cut_the_rope\app\build\intermediates\pre-dexed\debug\jbox2d-2.0.1-full_eb5b7b7d30086d643f4913eb76e057877f62d2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkSpace\android_studio\cut_the_rope\app\libs\googleadmobadssdk-6.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="D:\WorkSpace\android_studio\cut_the_rope\app\build\intermediates\pre-dexed\debug\googleadmobadssdk-6.0.1_4bec601f82678470c521717ce207e44ddf169ffe.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levelscreen.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\layout\\levelscreen.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\layout\\optionscreen.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\layout\\optionscreen.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\layout\\mainscreen.xml"
+    }
+]
