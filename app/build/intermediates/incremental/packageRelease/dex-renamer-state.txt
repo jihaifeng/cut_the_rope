@@ -1,0 +1,4 @@
+#Sat May 27 17:59:45 CST 2017
+base.0=D\:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

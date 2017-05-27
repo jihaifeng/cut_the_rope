@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\build\\intermediates\\res\\merged\\release\\anim\\appear.xml",
+        "source": "D:\\WorkSpace\\android_studio\\cut_the_rope\\app\\src\\main\\res\\anim\\appear.xml"
+    }
+]
