@@ -1,122 +1,122 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:2:1-73:12
 	package
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:3:2-34
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:5:5-37
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:3:59-84
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:4:5-30
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:3:35-58
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:4:2-40
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:8:3-40
 	android:targetSdkVersion
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:4:12-37
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:8:13-38
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 		INJECTED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml
 meta-data#ADMOB_ALLOW_LOCATION_FOR_ADS
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:5:2-80
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:9:3-12:9
 	android:value
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:5:13-33
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:11:7-27
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:5:34-77
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:10:7-50
 uses-permission#android.permission.INTERNET
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:6:7-68
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:14:3-64
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:6:24-66
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:14:20-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:7:8-82
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:15:3-76
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:7:25-79
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:15:20-74
 application
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:8:2-32:16
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:17:3-72:17
 	android:label
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:8:45-77
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:19:7-39
 	android:icon
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:8:15-44
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:18:7-36
 activity#com.kd.grabandcut.menu.SplashScreen
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:9:3-15:14
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:21:5-38:16
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:10:46-96
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:23:9-59
 	android:theme
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:10:4-44
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:24:9-49
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:9:13-41
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:22:9-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:11:4-14:20
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:26:7-37:23
 action#android.intent.action.MAIN
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:12:5-153
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:27:9-31:23
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:12:107-143
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:30:13-49
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:12:56-106
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:29:13-63
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:12:13-54
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:28:13-54
 category#android.intent.category.LAUNCHER
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:13:5-163
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:32:9-36:25
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:13:115-151
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:35:13-49
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:13:64-114
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:34:13-63
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:13:15-62
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:33:13-60
 activity#com.kd.grabandcut.menu.MainScreen
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:16:3-140
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:39:5-43:21
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:16:92-128
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:42:9-45
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:16:41-91
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:41:9-59
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:16:13-39
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:40:9-35
 activity#com.kd.grabandcut.menu.LevelScreen
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:17:3-141
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:44:5-48:21
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:17:93-129
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:47:9-45
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:17:42-92
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:46:9-59
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:17:13-40
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:45:9-36
 activity#com.kd.grabandcut.menu.OptionMenuScreen
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:18:3-146
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:49:5-53:21
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:18:98-134
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:52:9-45
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:18:47-97
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:51:9-59
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:50:9-41
 activity#com.kd.grabandcut.menu.level.TestGame
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:19:3-26:14
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:54:5-65:16
 	android:screenOrientation
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:21:115-151
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:58:9-45
 	android:label
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:20:4-36
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:57:9-41
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:21:64-114
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:56:9-59
 	android:theme
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:21:4-62
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:59:9-67
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:19:13-65
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:55:9-61
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:22:4-25:20
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:61:7-64:23
 category#android.intent.category.DEFAULT
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:24:5-64
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:63:9-67
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:24:15-61
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:63:19-65
 activity#com.google.ads.AdActivity
-ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:27:3-29:122
+ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:66:5-70:11
 	android:configChanges
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:29:9-118
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:68:9-118
 	android:theme
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:28:9-67
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:69:9-67
 	android:name
-		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:27:13-53
+		ADDED from D:\WorkSpace\android_studio\cut_the_rope\app\src\main\AndroidManifest.xml:67:9-49
